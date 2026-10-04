@@ -131,16 +131,16 @@ Whether you're a student, developer, or organization — this tool helps you **v
 <div align="center">
 
 ### 📊 Dashboard
-<img src="screenshots/dashboard.png" alt="Dashboard" width="800"/>
+<img src="frontend/src/assets/dashboard.png" alt="Dashboard" width="800"/>
 
 ### 🔗 URL Scanner
-<img src="screenshots/url-scanner.png" alt="URL Scanner" width="800"/>
+<img src="frontend/src/assets/url.png" alt="URL Scanner" width="800"/>
 
 ### 📧 Email Analyzer
-<img src="screenshots/email-analyzer.png" alt="Email Analyzer" width="800"/>
+<img src="frontend/src/assets/email.png" alt="Email Analyzer" width="800"/>
 
 ### 👑 Admin Panel
-<img src="screenshots/admin-panel.png" alt="Admin Panel" width="800"/>
+<img src="frontend/src/assets/admin.png" alt="Admin Panel" width="800"/>
 
 </div>
 
