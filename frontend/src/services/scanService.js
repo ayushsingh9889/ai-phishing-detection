@@ -2,7 +2,7 @@
 
 import axios from "axios";
 
-const API_URL = "https://ai-phishing-detection-0zwg.onrender.com/api";
+const API_URL = import.meta.env.VITE_API_URL;
 
 /**
  * Get JWT token from localStorage
